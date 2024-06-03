@@ -1,0 +1,36 @@
+<ui-page-header>
+    <ui-page-header-breadcrumbs>
+        <ui-breadcrumb>
+            <ui-breadcrumb-list>
+                <ui-breadcrumb-item>
+                    <ui-breadcrumb-link href="/">
+                        <ui-breadcrumb-icon icon="home-line" />
+                    </ui-breadcrumb-link>
+                </ui-breadcrumb-item>
+                <ui-breadcrumb-separator />
+                <ui-breadcrumb-ellipsis />
+                <ui-breadcrumb-separator />
+                <ui-breadcrumb-item>
+                    <ui-breadcrumb-link href="/activities">
+                        Components
+                    </ui-breadcrumb-link>
+                </ui-breadcrumb-item>
+                <ui-breadcrumb-separator />
+                <ui-breadcrumb-item>
+                    <ui-breadcrumb-page>breadcrumb</ui-breadcrumb-page>
+                </ui-breadcrumb-item>
+            </ui-breadcrumb-list>
+        </ui-breadcrumb>
+    </ui-page-header-breadcrumbs>
+
+    <ui-page-header-header>
+        <ui-page-header-title>Wachtwoord</ui-page-header-title>
+        <ui-page-header-description>Voer uw huidige wachtwoord in om uw wachtwoord te wijzigen.</ui-page-header-description>
+    </ui-page-header-header>
+
+    <ui-page-header-actions>
+        <ui-button label="Button CTA" />
+    </ui-page-header-actions>
+
+    <ui-separator class="mt-5" />
+</ui-page-header>

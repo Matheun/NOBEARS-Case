@@ -1,0 +1,54 @@
+<div class="flex gap-10">
+    <div class="flex items-center gap-4">
+        <ui-avatar size="xs" src="https://images.unsplash.com/photo-1511485977113-f34c92461ad9?ixlib=rb-1.2.1&w=128&h=128&dpr=2&q=80" />
+        <ui-avatar size="sm" src="https://images.unsplash.com/photo-1511485977113-f34c92461ad9?ixlib=rb-1.2.1&w=128&h=128&dpr=2&q=80" />
+        <ui-avatar size="md" src="https://images.unsplash.com/photo-1511485977113-f34c92461ad9?ixlib=rb-1.2.1&w=128&h=128&dpr=2&q=80" />
+        <ui-avatar size="lg" src="https://images.unsplash.com/photo-1511485977113-f34c92461ad9?ixlib=rb-1.2.1&w=128&h=128&dpr=2&q=80" />
+        <ui-avatar size="xl" src="https://images.unsplash.com/photo-1511485977113-f34c92461ad9?ixlib=rb-1.2.1&w=128&h=128&dpr=2&q=80" />
+        <ui-avatar size="2xl" src="https://images.unsplash.com/photo-1511485977113-f34c92461ad9?ixlib=rb-1.2.1&w=128&h=128&dpr=2&q=80" />
+    </div>
+    <div class="flex items-center gap-4">
+        <ui-avatar size="xs" shape="square" src="https://images.unsplash.com/photo-1511485977113-f34c92461ad9?ixlib=rb-1.2.1&w=128&h=128&dpr=2&q=80" />
+        <ui-avatar size="sm" shape="square" src="https://images.unsplash.com/photo-1511485977113-f34c92461ad9?ixlib=rb-1.2.1&w=128&h=128&dpr=2&q=80" />
+        <ui-avatar size="md" shape="square" src="https://images.unsplash.com/photo-1511485977113-f34c92461ad9?ixlib=rb-1.2.1&w=128&h=128&dpr=2&q=80" />
+        <ui-avatar size="lg" shape="square" src="https://images.unsplash.com/photo-1511485977113-f34c92461ad9?ixlib=rb-1.2.1&w=128&h=128&dpr=2&q=80" />
+        <ui-avatar size="xl" shape="square" src="https://images.unsplash.com/photo-1511485977113-f34c92461ad9?ixlib=rb-1.2.1&w=128&h=128&dpr=2&q=80" />
+        <ui-avatar size="2xl" shape="square" src="https://images.unsplash.com/photo-1511485977113-f34c92461ad9?ixlib=rb-1.2.1&w=128&h=128&dpr=2&q=80" />
+    </div>
+</div>
+<div class="flex gap-10">
+    <div class="flex items-center gap-4">
+        <ui-avatar size="xs" fallback="FF" />
+        <ui-avatar size="sm" fallback="FF" />
+        <ui-avatar size="md" fallback="FF" />
+        <ui-avatar size="lg" fallback="FF" />
+        <ui-avatar size="xl" fallback="FF" />
+        <ui-avatar size="2xl" fallback="FF" />
+    </div>
+    <div class="flex items-center gap-4">
+        <ui-avatar size="xs" shape="square" fallback="FF" />
+        <ui-avatar size="sm" shape="square" fallback="FF" />
+        <ui-avatar size="md" shape="square" fallback="FF" />
+        <ui-avatar size="lg" shape="square" fallback="FF" />
+        <ui-avatar size="xl" shape="square" fallback="FF" />
+        <ui-avatar size="2xl" shape="square" fallback="FF" />
+    </div>
+</div>
+<div class="flex gap-10">
+    <div class="flex items-center gap-4">
+        <ui-avatar size="xs" />
+        <ui-avatar size="sm" />
+        <ui-avatar size="md" />
+        <ui-avatar size="lg" />
+        <ui-avatar size="xl" />
+        <ui-avatar size="2xl" />
+    </div>
+    <div class="flex items-center gap-4">
+        <ui-avatar size="xs" shape="square" />
+        <ui-avatar size="sm" shape="square" />
+        <ui-avatar size="md" shape="square" />
+        <ui-avatar size="lg" shape="square" />
+        <ui-avatar size="xl" shape="square" />
+        <ui-avatar size="2xl" shape="square" />
+    </div>
+</div>

@@ -1,0 +1,9 @@
+<div class="flex gap-4">
+    <ui-progress-circle :model-value="progess" :percentage="progess" />
+    <ui-progress-circle :model-value="progess" :percentage="progess" half />
+</div>
+
+<div class="flex gap-3">
+    <ui-button label="decrease" variant="outlined" @click="decrease" />
+    <ui-button label="increase" @click="increase" />
+</div>

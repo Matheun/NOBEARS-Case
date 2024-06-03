@@ -1,0 +1,37 @@
+<form class="flex flex-col gap-4" @submit.prevent>
+    <ui-radio-group default-value="option-three" disabled>
+        <div class="flex items-center space-x-2">
+            <ui-radio-group-item id="option-one" value="option-one" />
+            <ui-label for="option-one">
+                Option One
+            </ui-label>
+        </div>
+        <div class="flex items-center space-x-2">
+            <ui-radio-group-item id="option-two" value="option-two" />
+            <ui-label for="option-two">
+                Option Two
+            </ui-label>
+        </div>
+        <div class="flex items-center space-x-2">
+            <ui-radio-group-item id="option-three" value="option-three" />
+            <ui-label for="option-two">
+                Option Two
+            </ui-label>
+        </div>
+    </ui-radio-group>
+    <ui-radio-group default-value="option-four" size="md">
+        <div class="flex items-center space-x-2">
+            <ui-radio-group-item id="option-four" value="option-four" />
+            <ui-label for="option-four">
+                Option One
+            </ui-label>
+        </div>
+        <div class="flex items-center space-x-2">
+            <ui-radio-group-item id="option-five" value="option-five" />
+            <ui-label for="option-five">
+                Option Two
+            </ui-label>
+        </div>
+    </ui-radio-group>
+    <ui-button label="submit" type="submit" />
+</form>

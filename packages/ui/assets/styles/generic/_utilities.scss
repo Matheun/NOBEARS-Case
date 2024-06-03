@@ -1,0 +1,13 @@
+@layer utilities {
+    :root {
+        .container {
+            @apply px-4 md:px-8 max-w-none;
+        }
+
+        // .mask-image-radial-gradient {}
+
+        // .mask-alpha {
+        //     mask-mode: alpha;
+        // }
+    }
+}

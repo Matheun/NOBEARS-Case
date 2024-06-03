@@ -1,0 +1,28 @@
+<script setup lang="ts">
+import type Toast from "@nobears-case/ui/components/toast/Toast.vue";
+
+const toastRef = ref<InstanceType<typeof Toast>>();
+</script>
+
+<template>
+    <div>
+        <ui-button @click="toastRef?.add()">
+            Show Toast
+        </ui-button>
+
+        <ui-toast ref="toastRef" variant="error">
+            <!-- <ui-toast-icon decoration="ring" icon="info-circle" /> -->
+            <!-- <ui-toast-icon decoration="box" /> -->
+            <ui-toast-icon />
+            <ui-toast-title>
+                title
+            </ui-toast-title>
+            <ui-toast-description>
+                Description
+            </ui-toast-description>
+            <ui-toast-action alt-text="Action">
+                Action
+            </ui-toast-action>
+        </ui-toast>
+    </div>
+</template>

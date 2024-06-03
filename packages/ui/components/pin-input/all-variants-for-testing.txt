@@ -1,0 +1,26 @@
+<script setup lang="ts">
+const value = ref<string[]>(["1", "2", "3"]);
+const handleComplete = (e: string[]) => {
+    console.log(e);
+};
+</script>
+
+<template>
+    <div>
+        <ui-pin-input
+            id="pin-input"
+            v-model="value"
+            otp
+            type="number"
+            @complete="handleComplete"
+        >
+            <ui-pin-input-group>
+                <ui-pin-input-input
+                    v-for="(id, index) in 5"
+                    :key="id"
+                    :index="index"
+                />
+            </ui-pin-input-group>
+        </ui-pin-input>
+    </div>
+</template>

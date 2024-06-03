@@ -1,0 +1,42 @@
+<ui-breadcrumb>
+    <ui-breadcrumb-list>
+        <ui-breadcrumb-item>
+            <ui-breadcrumb-link href="/">
+                <ui-breadcrumb-icon icon="home-line" />
+            </ui-breadcrumb-link>
+        </ui-breadcrumb-item>
+        <ui-breadcrumb-separator />
+        <ui-breadcrumb-ellipsis />
+        <ui-breadcrumb-separator />
+        <ui-breadcrumb-item>
+            <ui-breadcrumb-link href="/activities">
+                Components
+            </ui-breadcrumb-link>
+        </ui-breadcrumb-item>
+        <ui-breadcrumb-separator />
+        <ui-breadcrumb-item>
+            <ui-breadcrumb-page>breadcrumb</ui-breadcrumb-page>
+        </ui-breadcrumb-item>
+    </ui-breadcrumb-list>
+</ui-breadcrumb>
+<ui-breadcrumb separator="slash">
+    <ui-breadcrumb-list>
+        <ui-breadcrumb-item>
+            <ui-breadcrumb-link href="/">
+                <ui-breadcrumb-icon icon="home-line" />
+            </ui-breadcrumb-link>
+        </ui-breadcrumb-item>
+        <ui-breadcrumb-separator />
+        <ui-breadcrumb-ellipsis />
+        <ui-breadcrumb-separator />
+        <ui-breadcrumb-item>
+            <ui-breadcrumb-link href="/activities">
+                Components
+            </ui-breadcrumb-link>
+        </ui-breadcrumb-item>
+        <ui-breadcrumb-separator />
+        <ui-breadcrumb-item>
+            <ui-breadcrumb-page>breadcrumb</ui-breadcrumb-page>
+        </ui-breadcrumb-item>
+    </ui-breadcrumb-list>
+</ui-breadcrumb>

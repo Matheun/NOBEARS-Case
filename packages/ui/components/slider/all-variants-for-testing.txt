@@ -1,0 +1,14 @@
+<script setup lang="ts">
+const sliderValue = ref([25])
+</script>
+
+<template>
+    <ui-slider
+        v-model="sliderValue"
+        :default-value="[20]"
+        :max="60"
+        :min="8"
+        :step="1"
+    />
+</template>
+

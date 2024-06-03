@@ -1,0 +1,4 @@
+<ui-logo theme="dark" />
+<ui-logo />
+<ui-logo variant="icon" theme="dark" />
+<ui-logo variant="icon" />

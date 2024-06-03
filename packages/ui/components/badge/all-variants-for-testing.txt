@@ -1,0 +1,504 @@
+<div class="flex gap-10">
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" />
+        <ui-badge size="md" label="Label" />
+        <ui-badge size="lg" label="Label" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" leading-dot />
+        <ui-badge size="md" label="Label" leading-dot />
+        <ui-badge size="lg" label="Label" leading-dot />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" prepend-icon="arrow-up" />
+        <ui-badge size="md" label="Label" prepend-icon="arrow-up" />
+        <ui-badge size="lg" label="Label" prepend-icon="arrow-up" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" append-icon="arrow-right" />
+        <ui-badge size="md" label="Label" append-icon="arrow-right" />
+        <ui-badge size="lg" label="Label" append-icon="arrow-right" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" icon="plus" />
+        <ui-badge size="md" label="Label" icon="plus" />
+        <ui-badge size="lg" label="Label" icon="plus" />
+    </div>
+</div>
+<div class="flex gap-10">
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="brand" />
+        <ui-badge size="md" label="Label" color="brand" />
+        <ui-badge size="lg" label="Label" color="brand" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="brand" leading-dot />
+        <ui-badge size="md" label="Label" color="brand" leading-dot />
+        <ui-badge size="lg" label="Label" color="brand" leading-dot />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="brand" prepend-icon="arrow-up" />
+        <ui-badge size="md" label="Label" color="brand" prepend-icon="arrow-up" />
+        <ui-badge size="lg" label="Label" color="brand" prepend-icon="arrow-up" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="brand" append-icon="arrow-right" />
+        <ui-badge size="md" label="Label" color="brand" append-icon="arrow-right" />
+        <ui-badge size="lg" label="Label" color="brand" append-icon="arrow-right" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="brand" icon="plus" />
+        <ui-badge size="md" label="Label" color="brand" icon="plus" />
+        <ui-badge size="lg" label="Label" color="brand" icon="plus" />
+    </div>
+</div>
+<div class="flex gap-10">
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="error" />
+        <ui-badge size="md" label="Label" color="error" />
+        <ui-badge size="lg" label="Label" color="error" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="error" leading-dot />
+        <ui-badge size="md" label="Label" color="error" leading-dot />
+        <ui-badge size="lg" label="Label" color="error" leading-dot />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="error" prepend-icon="arrow-up" />
+        <ui-badge size="md" label="Label" color="error" prepend-icon="arrow-up" />
+        <ui-badge size="lg" label="Label" color="error" prepend-icon="arrow-up" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="error" append-icon="arrow-right" />
+        <ui-badge size="md" label="Label" color="error" append-icon="arrow-right" />
+        <ui-badge size="lg" label="Label" color="error" append-icon="arrow-right" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="error" icon="plus" />
+        <ui-badge size="md" label="Label" color="error" icon="plus" />
+        <ui-badge size="lg" label="Label" color="error" icon="plus" />
+    </div>
+</div>
+<div class="flex gap-10">
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="warning" />
+        <ui-badge size="md" label="Label" color="warning" />
+        <ui-badge size="lg" label="Label" color="warning" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="warning" leading-dot />
+        <ui-badge size="md" label="Label" color="warning" leading-dot />
+        <ui-badge size="lg" label="Label" color="warning" leading-dot />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="warning" prepend-icon="arrow-up" />
+        <ui-badge size="md" label="Label" color="warning" prepend-icon="arrow-up" />
+        <ui-badge size="lg" label="Label" color="warning" prepend-icon="arrow-up" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="warning" append-icon="arrow-right" />
+        <ui-badge size="md" label="Label" color="warning" append-icon="arrow-right" />
+        <ui-badge size="lg" label="Label" color="warning" append-icon="arrow-right" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="warning" icon="plus" />
+        <ui-badge size="md" label="Label" color="warning" icon="plus" />
+        <ui-badge size="lg" label="Label" color="warning" icon="plus" />
+    </div>
+</div>
+<div class="flex gap-10">
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="success" />
+        <ui-badge size="md" label="Label" color="success" />
+        <ui-badge size="lg" label="Label" color="success" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="success" leading-dot />
+        <ui-badge size="md" label="Label" color="success" leading-dot />
+        <ui-badge size="lg" label="Label" color="success" leading-dot />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="success" prepend-icon="arrow-up" />
+        <ui-badge size="md" label="Label" color="success" prepend-icon="arrow-up" />
+        <ui-badge size="lg" label="Label" color="success" prepend-icon="arrow-up" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="success" append-icon="arrow-right" />
+        <ui-badge size="md" label="Label" color="success" append-icon="arrow-right" />
+        <ui-badge size="lg" label="Label" color="success" append-icon="arrow-right" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="success" icon="plus" />
+        <ui-badge size="md" label="Label" color="success" icon="plus" />
+        <ui-badge size="lg" label="Label" color="success" icon="plus" />
+    </div>
+</div>
+<div class="flex gap-10">
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="info" />
+        <ui-badge size="md" label="Label" color="info" />
+        <ui-badge size="lg" label="Label" color="info" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="info" leading-dot />
+        <ui-badge size="md" label="Label" color="info" leading-dot />
+        <ui-badge size="lg" label="Label" color="info" leading-dot />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="info" prepend-icon="arrow-up" />
+        <ui-badge size="md" label="Label" color="info" prepend-icon="arrow-up" />
+        <ui-badge size="lg" label="Label" color="info" prepend-icon="arrow-up" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="info" append-icon="arrow-right" />
+        <ui-badge size="md" label="Label" color="info" append-icon="arrow-right" />
+        <ui-badge size="lg" label="Label" color="info" append-icon="arrow-right" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="info" icon="plus" />
+        <ui-badge size="md" label="Label" color="info" icon="plus" />
+        <ui-badge size="lg" label="Label" color="info" icon="plus" />
+    </div>
+</div>
+<div class="flex gap-10">
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="help" />
+        <ui-badge size="md" label="Label" color="help" />
+        <ui-badge size="lg" label="Label" color="help" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="help" leading-dot />
+        <ui-badge size="md" label="Label" color="help" leading-dot />
+        <ui-badge size="lg" label="Label" color="help" leading-dot />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="help" prepend-icon="arrow-up" />
+        <ui-badge size="md" label="Label" color="help" prepend-icon="arrow-up" />
+        <ui-badge size="lg" label="Label" color="help" prepend-icon="arrow-up" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="help" append-icon="arrow-right" />
+        <ui-badge size="md" label="Label" color="help" append-icon="arrow-right" />
+        <ui-badge size="lg" label="Label" color="help" append-icon="arrow-right" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="help" icon="plus" />
+        <ui-badge size="md" label="Label" color="help" icon="plus" />
+        <ui-badge size="lg" label="Label" color="help" icon="plus" />
+    </div>
+</div>
+<div class="flex gap-10">
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="gray-blue" />
+        <ui-badge size="md" label="Label" color="gray-blue" />
+        <ui-badge size="lg" label="Label" color="gray-blue" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="gray-blue" leading-dot />
+        <ui-badge size="md" label="Label" color="gray-blue" leading-dot />
+        <ui-badge size="lg" label="Label" color="gray-blue" leading-dot />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="gray-blue" prepend-icon="arrow-up" />
+        <ui-badge size="md" label="Label" color="gray-blue" prepend-icon="arrow-up" />
+        <ui-badge size="lg" label="Label" color="gray-blue" prepend-icon="arrow-up" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="gray-blue" append-icon="arrow-right" />
+        <ui-badge size="md" label="Label" color="gray-blue" append-icon="arrow-right" />
+        <ui-badge size="lg" label="Label" color="gray-blue" append-icon="arrow-right" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="gray-blue" icon="plus" />
+        <ui-badge size="md" label="Label" color="gray-blue" icon="plus" />
+        <ui-badge size="lg" label="Label" color="gray-blue" icon="plus" />
+    </div>
+</div>
+<div class="flex gap-10">
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="blue-light" />
+        <ui-badge size="md" label="Label" color="blue-light" />
+        <ui-badge size="lg" label="Label" color="blue-light" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="blue-light" leading-dot />
+        <ui-badge size="md" label="Label" color="blue-light" leading-dot />
+        <ui-badge size="lg" label="Label" color="blue-light" leading-dot />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="blue-light" prepend-icon="arrow-up" />
+        <ui-badge size="md" label="Label" color="blue-light" prepend-icon="arrow-up" />
+        <ui-badge size="lg" label="Label" color="blue-light" prepend-icon="arrow-up" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="blue-light" append-icon="arrow-right" />
+        <ui-badge size="md" label="Label" color="blue-light" append-icon="arrow-right" />
+        <ui-badge size="lg" label="Label" color="blue-light" append-icon="arrow-right" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="blue-light" icon="plus" />
+        <ui-badge size="md" label="Label" color="blue-light" icon="plus" />
+        <ui-badge size="lg" label="Label" color="blue-light" icon="plus" />
+    </div>
+</div>
+<div class="flex gap-10">
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="blue" />
+        <ui-badge size="md" label="Label" color="blue" />
+        <ui-badge size="lg" label="Label" color="blue" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="blue" leading-dot />
+        <ui-badge size="md" label="Label" color="blue" leading-dot />
+        <ui-badge size="lg" label="Label" color="blue" leading-dot />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="blue" prepend-icon="arrow-up" />
+        <ui-badge size="md" label="Label" color="blue" prepend-icon="arrow-up" />
+        <ui-badge size="lg" label="Label" color="blue" prepend-icon="arrow-up" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="blue" append-icon="arrow-right" />
+        <ui-badge size="md" label="Label" color="blue" append-icon="arrow-right" />
+        <ui-badge size="lg" label="Label" color="blue" append-icon="arrow-right" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="blue" icon="plus" />
+        <ui-badge size="md" label="Label" color="blue" icon="plus" />
+        <ui-badge size="lg" label="Label" color="blue" icon="plus" />
+    </div>
+</div>
+<div class="flex gap-10">
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="blue-dark" />
+        <ui-badge size="md" label="Label" color="blue-dark" />
+        <ui-badge size="lg" label="Label" color="blue-dark" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="blue-dark" leading-dot />
+        <ui-badge size="md" label="Label" color="blue-dark" leading-dot />
+        <ui-badge size="lg" label="Label" color="blue-dark" leading-dot />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="blue-dark" prepend-icon="arrow-up" />
+        <ui-badge size="md" label="Label" color="blue-dark" prepend-icon="arrow-up" />
+        <ui-badge size="lg" label="Label" color="blue-dark" prepend-icon="arrow-up" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="blue-dark" append-icon="arrow-right" />
+        <ui-badge size="md" label="Label" color="blue-dark" append-icon="arrow-right" />
+        <ui-badge size="lg" label="Label" color="blue-dark" append-icon="arrow-right" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="blue-dark" icon="plus" />
+        <ui-badge size="md" label="Label" color="blue-dark" icon="plus" />
+        <ui-badge size="lg" label="Label" color="blue-dark" icon="plus" />
+    </div>
+</div>
+<div class="flex gap-10">
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="indigo" />
+        <ui-badge size="md" label="Label" color="indigo" />
+        <ui-badge size="lg" label="Label" color="indigo" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="indigo" leading-dot />
+        <ui-badge size="md" label="Label" color="indigo" leading-dot />
+        <ui-badge size="lg" label="Label" color="indigo" leading-dot />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="indigo" prepend-icon="arrow-up" />
+        <ui-badge size="md" label="Label" color="indigo" prepend-icon="arrow-up" />
+        <ui-badge size="lg" label="Label" color="indigo" prepend-icon="arrow-up" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="indigo" append-icon="arrow-right" />
+        <ui-badge size="md" label="Label" color="indigo" append-icon="arrow-right" />
+        <ui-badge size="lg" label="Label" color="indigo" append-icon="arrow-right" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="indigo" icon="plus" />
+        <ui-badge size="md" label="Label" color="indigo" icon="plus" />
+        <ui-badge size="lg" label="Label" color="indigo" icon="plus" />
+    </div>
+</div>
+<div class="flex gap-10">
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="purple" />
+        <ui-badge size="md" label="Label" color="purple" />
+        <ui-badge size="lg" label="Label" color="purple" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="purple" leading-dot />
+        <ui-badge size="md" label="Label" color="purple" leading-dot />
+        <ui-badge size="lg" label="Label" color="purple" leading-dot />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="purple" prepend-icon="arrow-up" />
+        <ui-badge size="md" label="Label" color="purple" prepend-icon="arrow-up" />
+        <ui-badge size="lg" label="Label" color="purple" prepend-icon="arrow-up" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="purple" append-icon="arrow-right" />
+        <ui-badge size="md" label="Label" color="purple" append-icon="arrow-right" />
+        <ui-badge size="lg" label="Label" color="purple" append-icon="arrow-right" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="purple" icon="plus" />
+        <ui-badge size="md" label="Label" color="purple" icon="plus" />
+        <ui-badge size="lg" label="Label" color="purple" icon="plus" />
+    </div>
+</div>
+<div class="flex gap-10">
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="pink" />
+        <ui-badge size="md" label="Label" color="pink" />
+        <ui-badge size="lg" label="Label" color="pink" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="pink" leading-dot />
+        <ui-badge size="md" label="Label" color="pink" leading-dot />
+        <ui-badge size="lg" label="Label" color="pink" leading-dot />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="pink" prepend-icon="arrow-up" />
+        <ui-badge size="md" label="Label" color="pink" prepend-icon="arrow-up" />
+        <ui-badge size="lg" label="Label" color="pink" prepend-icon="arrow-up" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="pink" append-icon="arrow-right" />
+        <ui-badge size="md" label="Label" color="pink" append-icon="arrow-right" />
+        <ui-badge size="lg" label="Label" color="pink" append-icon="arrow-right" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="pink" icon="plus" />
+        <ui-badge size="md" label="Label" color="pink" icon="plus" />
+        <ui-badge size="lg" label="Label" color="pink" icon="plus" />
+    </div>
+</div>
+<div class="flex gap-10">
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="orange" />
+        <ui-badge size="md" label="Label" color="orange" />
+        <ui-badge size="lg" label="Label" color="orange" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="orange" leading-dot />
+        <ui-badge size="md" label="Label" color="orange" leading-dot />
+        <ui-badge size="lg" label="Label" color="orange" leading-dot />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="orange" prepend-icon="arrow-up" />
+        <ui-badge size="md" label="Label" color="orange" prepend-icon="arrow-up" />
+        <ui-badge size="lg" label="Label" color="orange" prepend-icon="arrow-up" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="orange" append-icon="arrow-right" />
+        <ui-badge size="md" label="Label" color="orange" append-icon="arrow-right" />
+        <ui-badge size="lg" label="Label" color="orange" append-icon="arrow-right" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" color="orange" icon="plus" />
+        <ui-badge size="md" label="Label" color="orange" icon="plus" />
+        <ui-badge size="lg" label="Label" color="orange" icon="plus" />
+    </div>
+</div>
+<div class="flex gap-10">
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" variant="modern" />
+        <ui-badge size="md" label="Label" variant="modern" />
+        <ui-badge size="lg" label="Label" variant="modern" />
+    </div>
+    <div class="flex flex-col gap-4">
+        <div class="flex gap-4">
+            <ui-badge size="sm" label="Label" variant="modern" leading-dot />
+            <ui-badge size="md" label="Label" variant="modern" leading-dot />
+            <ui-badge size="lg" label="Label" variant="modern" leading-dot />
+        </div>
+        <div class="flex gap-4">
+            <ui-badge size="sm" label="Label" variant="modern" color="brand" leading-dot />
+            <ui-badge size="md" label="Label" variant="modern" color="brand" leading-dot />
+            <ui-badge size="lg" label="Label" variant="modern" color="brand" leading-dot />
+        </div>
+        <div class="flex gap-4">
+            <ui-badge size="sm" label="Label" variant="modern" color="error" leading-dot />
+            <ui-badge size="md" label="Label" variant="modern" color="error" leading-dot />
+            <ui-badge size="lg" label="Label" variant="modern" color="error" leading-dot />
+        </div>
+        <div class="flex gap-4">
+            <ui-badge size="sm" label="Label" variant="modern" color="warning" leading-dot />
+            <ui-badge size="md" label="Label" variant="modern" color="warning" leading-dot />
+            <ui-badge size="lg" label="Label" variant="modern" color="warning" leading-dot />
+        </div>
+        <div class="flex gap-4">
+            <ui-badge size="sm" label="Label" variant="modern" color="success" leading-dot />
+            <ui-badge size="md" label="Label" variant="modern" color="success" leading-dot />
+            <ui-badge size="lg" label="Label" variant="modern" color="success" leading-dot />
+        </div>
+        <div class="flex gap-4">
+            <ui-badge size="sm" label="Label" variant="modern" color="info" leading-dot />
+            <ui-badge size="md" label="Label" variant="modern" color="info" leading-dot />
+            <ui-badge size="lg" label="Label" variant="modern" color="info" leading-dot />
+        </div>
+        <div class="flex gap-4">
+            <ui-badge size="sm" label="Label" variant="modern" color="help" leading-dot />
+            <ui-badge size="md" label="Label" variant="modern" color="help" leading-dot />
+            <ui-badge size="lg" label="Label" variant="modern" color="help" leading-dot />
+        </div>
+        <div class="flex gap-4">
+            <ui-badge size="sm" label="Label" variant="modern" color="gray-blue" leading-dot />
+            <ui-badge size="md" label="Label" variant="modern" color="gray-blue" leading-dot />
+            <ui-badge size="lg" label="Label" variant="modern" color="gray-blue" leading-dot />
+        </div>
+        <div class="flex gap-4">
+            <ui-badge size="sm" label="Label" variant="modern" color="blue-light" leading-dot />
+            <ui-badge size="md" label="Label" variant="modern" color="blue-light" leading-dot />
+            <ui-badge size="lg" label="Label" variant="modern" color="blue-light" leading-dot />
+        </div>
+        <div class="flex gap-4">
+            <ui-badge size="sm" label="Label" variant="modern" color="blue" leading-dot />
+            <ui-badge size="md" label="Label" variant="modern" color="blue" leading-dot />
+            <ui-badge size="lg" label="Label" variant="modern" color="blue" leading-dot />
+        </div>
+        <div class="flex gap-4">
+            <ui-badge size="sm" label="Label" variant="modern" color="blue-dark" leading-dot />
+            <ui-badge size="md" label="Label" variant="modern" color="blue-dark" leading-dot />
+            <ui-badge size="lg" label="Label" variant="modern" color="blue-dark" leading-dot />
+        </div>
+        <div class="flex gap-4">
+            <ui-badge size="sm" label="Label" variant="modern" color="indigo" leading-dot />
+            <ui-badge size="md" label="Label" variant="modern" color="indigo" leading-dot />
+            <ui-badge size="lg" label="Label" variant="modern" color="indigo" leading-dot />
+        </div>
+        <div class="flex gap-4">
+            <ui-badge size="sm" label="Label" variant="modern" color="purple" leading-dot />
+            <ui-badge size="md" label="Label" variant="modern" color="purple" leading-dot />
+            <ui-badge size="lg" label="Label" variant="modern" color="purple" leading-dot />
+        </div>
+        <div class="flex gap-4">
+            <ui-badge size="sm" label="Label" variant="modern" color="pink" leading-dot />
+            <ui-badge size="md" label="Label" variant="modern" color="pink" leading-dot />
+            <ui-badge size="lg" label="Label" variant="modern" color="pink" leading-dot />
+        </div>
+        <div class="flex gap-4">
+            <ui-badge size="sm" label="Label" variant="modern" color="orange" leading-dot />
+            <ui-badge size="md" label="Label" variant="modern" color="orange" leading-dot />
+            <ui-badge size="lg" label="Label" variant="modern" color="orange" leading-dot />
+        </div>
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" variant="modern" prepend-icon="arrow-up" />
+        <ui-badge size="md" label="Label" variant="modern" prepend-icon="arrow-up" />
+        <ui-badge size="lg" label="Label" variant="modern" prepend-icon="arrow-up" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" variant="modern" append-icon="arrow-right" />
+        <ui-badge size="md" label="Label" variant="modern" append-icon="arrow-right" />
+        <ui-badge size="lg" label="Label" variant="modern" append-icon="arrow-right" />
+    </div>
+    <div class="flex gap-4">
+        <ui-badge size="sm" label="Label" variant="modern" icon="plus" />
+        <ui-badge size="md" label="Label" variant="modern" icon="plus" />
+        <ui-badge size="lg" label="Label" variant="modern" icon="plus" />
+    </div>
+</div>

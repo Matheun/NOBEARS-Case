@@ -1,0 +1,82 @@
+<div class="space-y-4">
+    <ui-alert>
+        <ui-alert-close />
+        <ui-alert-icon icon="info-circle" decoration="box" />
+        <ui-alert-title>We've just released a new feature</ui-alert-title>
+        <ui-alert-description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid pariatur, ipsum dolor.</ui-alert-description>
+        <ui-alert-actions>
+            <ui-button label="Dismiss" variant="plain" />
+            <ui-button label="View changes" variant="plain" color="brand" />
+        </ui-alert-actions>
+    </ui-alert>
+    <ui-alert>
+        <ui-alert-close />
+        <ui-alert-icon icon="info-circle" />
+        <ui-alert-title>We've just released a new feature</ui-alert-title>
+        <ui-alert-description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid pariatur, ipsum dolor.</ui-alert-description>
+        <ui-alert-actions>
+            <ui-button label="Dismiss" variant="plain" />
+            <ui-button label="View changes" variant="plain" color="brand" />
+        </ui-alert-actions>
+    </ui-alert>
+    <ui-alert variant="brand">
+        <ui-alert-close />
+        <ui-alert-icon icon="info-circle" />
+        <ui-alert-title>We've just released a new feature</ui-alert-title>
+        <ui-alert-description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid pariatur, ipsum dolor.</ui-alert-description>
+        <ui-alert-actions>
+            <ui-button label="Dismiss" variant="plain" />
+            <ui-button label="View changes" variant="plain" color="brand" />
+        </ui-alert-actions>
+    </ui-alert>
+    <ui-alert variant="error">
+        <ui-alert-close />
+        <ui-alert-icon icon="alert-circle" />
+        <ui-alert-title>We've just released a new feature</ui-alert-title>
+        <ui-alert-description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid pariatur, ipsum dolor.</ui-alert-description>
+        <ui-alert-actions>
+            <ui-button label="Dismiss" variant="plain" />
+            <ui-button label="View changes" variant="plain" color="brand" />
+        </ui-alert-actions>
+    </ui-alert>
+    <ui-alert variant="warning">
+        <ui-alert-close />
+        <ui-alert-icon icon="alert-circle" />
+        <ui-alert-title>We've just released a new feature</ui-alert-title>
+        <ui-alert-description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid pariatur, ipsum dolor.</ui-alert-description>
+        <ui-alert-actions>
+            <ui-button label="Dismiss" variant="plain" />
+            <ui-button label="View changes" variant="plain" color="brand" />
+        </ui-alert-actions>
+    </ui-alert>
+    <ui-alert variant="success">
+        <ui-alert-close />
+        <ui-alert-icon icon="check-circle" />
+        <ui-alert-title>We've just released a new feature</ui-alert-title>
+        <ui-alert-description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid pariatur, ipsum dolor.</ui-alert-description>
+        <ui-alert-actions>
+            <ui-button label="Dismiss" variant="plain" />
+            <ui-button label="View changes" variant="plain" color="brand" />
+        </ui-alert-actions>
+    </ui-alert>
+    <ui-alert variant="info">
+        <ui-alert-close />
+        <ui-alert-icon icon="info-circle" />
+        <ui-alert-title>We've just released a new feature</ui-alert-title>
+        <ui-alert-description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid pariatur, ipsum dolor.</ui-alert-description>
+        <ui-alert-actions>
+            <ui-button label="Dismiss" variant="plain" />
+            <ui-button label="View changes" variant="plain" color="brand" />
+        </ui-alert-actions>
+    </ui-alert>
+    <ui-alert variant="help">
+        <ui-alert-close />
+        <ui-alert-icon icon="info-circle" />
+        <ui-alert-title>We've just released a new feature</ui-alert-title>
+        <ui-alert-description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid pariatur, ipsum dolor.</ui-alert-description>
+        <ui-alert-actions>
+            <ui-button label="Dismiss" variant="plain" />
+            <ui-button label="View changes" variant="plain" color="brand" />
+        </ui-alert-actions>
+    </ui-alert>
+</div>

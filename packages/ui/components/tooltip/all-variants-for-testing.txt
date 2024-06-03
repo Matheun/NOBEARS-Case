@@ -1,0 +1,20 @@
+<ui-tooltip-provider>
+    <ui-tooltip>
+        <ui-tooltip-trigger as-child>
+            <ui-button variant="outlined" size="xs" icon="refresh-cw-01" />
+        </ui-tooltip-trigger>
+        <ui-tooltip-content side="top" size="sm">
+            <p>Opnieuw genereren</p>
+        </ui-tooltip-content>
+    </ui-tooltip>
+</ui-tooltip-provider>
+<ui-tooltip-provider>
+    <ui-tooltip>
+        <ui-tooltip-trigger as-child>
+            <ui-button variant="outlined" size="xs" icon="refresh-cw-01" />
+        </ui-tooltip-trigger>
+        <ui-tooltip-content side="top">
+            <p>Opnieuw genereren</p>
+        </ui-tooltip-content>
+    </ui-tooltip>
+</ui-tooltip-provider>

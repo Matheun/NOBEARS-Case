@@ -1,0 +1,19 @@
+<!-- <form class="flex flex-col gap-4" @submit.prevent>
+    <div class="flex items-center space-x-2">
+        <ui-checkbox size="xs" disabled />
+        <ui-checkbox size="xs" disabled checked />
+        <ui-checkbox size="xs" disabled checked="indeterminate" />
+        <ui-checkbox size="xs" />
+        <ui-checkbox size="xs" checked />
+        <ui-checkbox size="xs" checked="indeterminate" />
+    </div>
+    <div class="flex items-center space-x-2">
+        <ui-checkbox disabled />
+        <ui-checkbox disabled checked />
+        <ui-checkbox disabled checked="indeterminate" />
+        <ui-checkbox />
+        <ui-checkbox checked />
+        <ui-checkbox checked="indeterminate" />
+    </div>
+    <ui-button label="submit" type="submit" />
+</form> -->

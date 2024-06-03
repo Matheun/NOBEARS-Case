@@ -1,0 +1,3 @@
+<ui-progress-bar :model-value="25" />
+<ui-progress-bar :model-value="50" show-progress />
+<ui-progress-bar :model-value="75" show-progress progress-position="bottom" />

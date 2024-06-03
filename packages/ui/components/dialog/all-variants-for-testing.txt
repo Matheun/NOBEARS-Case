@@ -1,0 +1,31 @@
+<ui-dialog>
+    <ui-dialog-trigger as-child>
+        <ui-button color="brand" variant="plain" size="sm" type="button" @click.prevent>
+            Wachtwoord genereren
+        </ui-button>
+    </ui-dialog-trigger>
+    <ui-dialog-content>
+        <ui-dialog-header>
+            <ui-dialog-icon icon="flag-05" />
+            <ui-dialog-title>
+                Wachtwoord genereren
+            </ui-dialog-title>
+            <ui-dialog-description>
+                Genereer een wachtwoord op basis van de geselecteerde opties.
+            </ui-dialog-description>
+        </ui-dialog-header>
+
+        <div>
+            Content
+        </div>
+
+        <ui-dialog-footer>
+            <ui-button variant="outlined" size="lg">
+                Annuleren
+            </ui-button>
+            <ui-button size="lg">
+                Wachtwoord genereren
+            </ui-button>
+        </ui-dialog-footer>
+    </ui-dialog-content>
+</ui-dialog>

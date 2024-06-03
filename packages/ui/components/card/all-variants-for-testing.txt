@@ -1,0 +1,26 @@
+<ui-card>
+    <ui-card-header>
+        <ui-card-title>
+            Card Title
+            <ui-badge size="sm">
+                10/20 seats
+            </ui-badge>
+        </ui-card-title>
+        <ui-card-description>
+            Card Description
+        </ui-card-description>
+        <ui-card-settings>
+            <ui-dropdown-menu-item>Item 1</ui-dropdown-menu-item>
+            <ui-dropdown-menu-item>Item 2</ui-dropdown-menu-item>
+            <ui-dropdown-menu-item>Item 3</ui-dropdown-menu-item>
+        </ui-card-settings>
+    </ui-card-header>
+
+    <ui-card-content>
+        Card Content
+    </ui-card-content>
+
+    <ui-card-footer>
+        Card Footer
+    </ui-card-footer>
+</ui-card>

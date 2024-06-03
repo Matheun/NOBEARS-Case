@@ -1,0 +1,12 @@
+<script setup lang="ts">
+import type Toast from "@nobears-case/ui/components/toast/Toast.vue";
+
+const toastRef = ref<InstanceType<typeof Toast>>();
+</script>
+
+<template>
+    <div>
+        <ui-switch v-model:checked="passwordSettings.numbers" />
+        <ui-switch size="md" v-model:checked="passwordSettings.numbers" />
+    </div>
+</template>

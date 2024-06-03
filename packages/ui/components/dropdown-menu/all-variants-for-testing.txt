@@ -1,0 +1,27 @@
+<ui-dropdown-menu>
+    <ui-dropdown-menu-trigger>
+        <ui-button label="trigger" />
+    </ui-dropdown-menu-trigger>
+    <ui-dropdown-menu-content>
+        <ui-dropdown-menu-label>Label</ui-dropdown-menu-label>
+        <ui-dropdown-menu-separator />
+        <ui-dropdown-menu-item>Item 1</ui-dropdown-menu-item>
+        <ui-dropdown-menu-item>Item 2</ui-dropdown-menu-item>
+        <ui-dropdown-menu-item>Item 3</ui-dropdown-menu-item>
+        <ui-dropdown-menu-item
+            label="View profile"
+            icon="user-01"
+            shortcut="⌘ C"
+        />
+        <ui-dropdown-menu-item
+            label="View profile"
+            icon="user-01"
+        >
+            <template #shortcut>
+                <div class="ml-auto">
+                    <ui-dropdown-menu-shortcut shortcut="Ctrl /" />
+                </div>
+            </template>
+        </ui-dropdown-menu-item>
+    </ui-dropdown-menu-content>
+</ui-dropdown-menu>

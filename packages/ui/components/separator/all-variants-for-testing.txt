@@ -1,0 +1,11 @@
+<ui-separator variant="primary" />
+<ui-separator variant="secondary" />
+<ui-separator variant="tertiary" />
+
+<ui-separator variant="primary" orientation="vertical" />
+<ui-separator variant="secondary" orientation="vertical" />
+<ui-separator variant="tertiary" orientation="vertical" />
+
+<ui-separator variant="primary" :straight-edges="true" />
+<ui-separator variant="secondary" :straight-edges="true" />
+<ui-separator variant="tertiary" :straight-edges="true" />

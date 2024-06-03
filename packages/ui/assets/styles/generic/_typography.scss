@@ -1,0 +1,17 @@
+@layer components {
+    h1 {
+        @apply scroll-m-20 text-display-xs md:text-display-sm font-semibold text-text-primary leading-8 md:leading-[2.375rem];
+    }
+
+    h2 {
+        @apply text-lg font-semibold text-text-primary;
+    }
+
+    h3 {
+        @apply text-md font-semibold text-text-primary;
+    }
+
+    p {
+        @apply text-sm font-normal text-text-tertiary leading-6;
+    }
+}

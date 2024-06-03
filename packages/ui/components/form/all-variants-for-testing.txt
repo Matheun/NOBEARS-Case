@@ -1,0 +1,54 @@
+<script setup lang="ts">
+import { UiForm } from "@/components/form";
+import { toTypedSchema } from "@vee-validate/zod";
+import * as z from "zod";
+
+const formSchema = toTypedSchema(z.object({
+    email: z
+        .string({
+            required_error: "Email is verplicht",
+        })
+        .min(1, {
+            message: "Email is verplicht",
+        })
+        .email("Email is niet geldig"),
+}));
+
+function onSubmit (values: any) {
+    console.log(values);
+}
+const email = ref("");
+</script>
+
+<template>
+    <div class="flex flex-col space-y-4 p-4">
+        <div class="space-y-4">
+            <ClientOnly>
+                <ui-form @submit.prevent="onSubmit">
+                    <ui-field
+                        v-slot="{ componentField }"
+                        v-model="email"
+                        name="email"
+                        rules="email"
+                        validate-on-blur
+                    >
+                        <ui-field-label>Email Adres</ui-field-label>
+                        <ui-input-text
+                            v-bind="componentField"
+                            type="email"
+                            placeholder="johndoe@nobears-case.nl"
+                            prepend-icon="mail-01"
+                        />
+                        <ui-field-description>
+                            This is a hint text to help the user.
+                        </ui-field-description>
+                        <ui-field-error />
+                    </ui-field>
+                    <ui-button type="submit">
+                        Submit
+                    </ui-button>
+                </ui-form>
+            </ClientOnly>
+        </div>
+    </div>
+</template>

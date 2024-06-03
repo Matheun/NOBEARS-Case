@@ -1,0 +1,16 @@
+<script setup lang="ts">
+const isOpen = ref(false);
+</script>
+
+<template>
+    <div>
+        <ui-collapsible v-model:open="isOpen">
+            <ui-collapsible-trigger>
+                <ui-button label="Settings" />
+            </ui-collapsible-trigger>
+            <ui-collapsible-content>
+                content
+            </ui-collapsible-content>
+        </ui-collapsible>
+    </div>
+</template>
