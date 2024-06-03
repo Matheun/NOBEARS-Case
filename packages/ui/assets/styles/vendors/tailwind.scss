@@ -1,12 +1,12 @@
-// @import "tailwindcss/base";
-@tailwind base;
+// @tailwind base;
+@import "tailwindcss/base";
 @import "../generic/_colors";
 @import "../generic/_global";
 
-// @import "tailwindcss/components";
-@tailwind components;
+// @tailwind components;
+@import "tailwindcss/components";
 @import "../generic/_typography";
 
-// @import "tailwindcss/utilities";
-@tailwind utilities;
+// @tailwind utilities;
+@import "tailwindcss/utilities";
 @import "../generic/_utilities";
