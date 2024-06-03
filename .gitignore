@@ -1,0 +1,7 @@
+# Node dependencies
+node_modules
+
+.npmrc
+
+/apps/**.nuxt
+/packages/**/.nuxt
