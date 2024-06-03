@@ -164,10 +164,10 @@ const createIconPackage = async (directory: string, prefix: string) => {
         target,
         module: true,
         package: {
-            name: `@trajectxpert/icons/${prefix}-icons`,
+            name: `@nobears-case/icons/${prefix}-icons`,
             version: '1.0.0',
-            bugs: 'https://gitlab.trajectxpert.nl/trajectxpert/icon-builder/-/issues',
-            homepage: 'https://gitlab.trajectxpert.nl/trajectxpert/icon-builder/-/blob/main/README.md?ref_type=heads',
+            bugs: 'https://gitlab.nobears-case.nl/nobears-case/icon-builder/-/issues',
+            homepage: 'https://gitlab.nobears-case.nl/nobears-case/icon-builder/-/blob/main/README.md?ref_type=heads',
         },
         cleanup: true,
     });

@@ -1,10 +1,10 @@
 {
-	"name": "@trajectxpert/icons/line-icons",
+	"name": "@nobears-case/icons/line-icons",
 	"description": "Iconify icon components for line",
 	"version": "1.0.0",
 	"type": "module",
-	"bugs": "https://gitlab.trajectxpert.nl/trajectxpert/icon-builder/-/issues",
-	"homepage": "https://gitlab.trajectxpert.nl/trajectxpert/icon-builder/-/blob/main/README.md?ref_type=heads",
+	"bugs": "https://gitlab.nobears-case.nl/nobears-case/icon-builder/-/issues",
+	"homepage": "https://gitlab.nobears-case.nl/nobears-case/icon-builder/-/blob/main/README.md?ref_type=heads",
 	"dependencies": {
 		"@iconify/types": "*"
 	}
