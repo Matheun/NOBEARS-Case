@@ -1,0 +1,8 @@
+const data = {
+	"left": 0,
+	"top": 0,
+	"width": 24,
+	"height": 24,
+	"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" class=\"nc-icon-wrapper\"><path d=\"M21 9.72c0 1.66-4 3-9 3s-9-1.34-9-3m18 4.72c0 1.66-4 3-9 3s-9-1.34-9-3\" opacity=\".4\"/><path d=\"M21 5c0 1.657-4.03 3-9 3S3 6.657 3 5m18 0c0-1.657-4.03-3-9-3S3 3.343 3 5m18 0v14c0 1.66-4 3-9 3s-9-1.34-9-3V5\"/></g>"
+};
+export default data;

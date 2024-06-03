@@ -1,0 +1,11 @@
+{
+	"name": "@trajectxpert/icons/flag-icons",
+	"description": "Iconify icon components for flag",
+	"version": "1.0.0",
+	"type": "module",
+	"bugs": "https://gitlab.trajectxpert.nl/trajectxpert/icon-builder/-/issues",
+	"homepage": "https://gitlab.trajectxpert.nl/trajectxpert/icon-builder/-/blob/main/README.md?ref_type=heads",
+	"dependencies": {
+		"@iconify/types": "*"
+	}
+}

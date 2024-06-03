@@ -1,0 +1,8 @@
+const data = {
+	"left": 0,
+	"top": 0,
+	"width": 32,
+	"height": 33,
+	"body": "<g fill=\"none\"><g filter=\"url(#svgID0)\"><path fill=\"#fff\" d=\"M2 11.956c0-3.485 0-5.228.678-6.559a6.222 6.222 0 012.72-2.719C6.727 2 8.47 2 11.955 2h8.088c3.485 0 5.228 0 6.559.678a6.222 6.222 0 012.719 2.72C30 6.727 30 8.47 30 11.955v8.088c0 3.485 0 5.228-.678 6.559a6.222 6.222 0 01-2.72 2.719C25.273 30 23.53 30 20.045 30h-8.088c-3.485 0-5.228 0-6.559-.678a6.222 6.222 0 01-2.719-2.72C2 25.273 2 23.53 2 20.045v-8.088Z\"/><path fill=\"#188038\" d=\"M8 21.529v3.994c0 .814.667 1.474 1.488 1.474h3.968v-5.468H8Z\"/><path fill=\"#1967D2\" d=\"M18.548 26.998h3.964c.821 0 1.488-.66 1.488-1.474v-3.995h-5.452v5.469Z\"/><path fill=\"#34A853\" d=\"M18.547 21.529h-5.091v5.469h5.09v-5.47Z\"/><path fill=\"#FBBC05\" d=\"M9.488 5C8.667 5 8 5.66 8 6.474V21.53h5.456V10.51h5.09V5H9.489Z\"/><path fill=\"#4285F4\" d=\"M24 10.51h-5.452v11.019H24v-11.02Z\"/><path fill=\"#EA4335\" d=\"M18.548 10.51h5.45L18.549 5v5.51Z\"/></g><defs><filter id=\"svgID0\" width=\"36\" height=\"36\" x=\"-2\" y=\"-1\" color-interpolation-filters=\"sRGB\" filterUnits=\"userSpaceOnUse\"><feFlood flood-opacity=\"0\" result=\"BackgroundImageFix\"/><feColorMatrix in=\"SourceAlpha\" result=\"hardAlpha\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\"/><feOffset dy=\"1\"/><feGaussianBlur stdDeviation=\"1\"/><feColorMatrix values=\"0 0 0 0 0.0627451 0 0 0 0 0.0941176 0 0 0 0 0.156863 0 0 0 0.05 0\"/><feBlend in2=\"BackgroundImageFix\" result=\"effect1_dropShadow_629_4504\"/><feBlend in=\"SourceGraphic\" in2=\"effect1_dropShadow_629_4504\" result=\"shape\"/></filter></defs></g>"
+};
+export default data;

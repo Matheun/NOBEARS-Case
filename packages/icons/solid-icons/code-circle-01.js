@@ -1,0 +1,8 @@
+const data = {
+	"left": 0,
+	"top": 0,
+	"width": 24,
+	"height": 24,
+	"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M12 1C5.925 1 1 5.925 1 12s4.925 11 11 11 11-4.925 11-11S18.075 1 12 1Zm-1.793 8.707a1 1 0 00-1.414-1.414l-3 3a1 1 0 000 1.414l3 3a1 1 0 001.414-1.414L7.914 12l2.293-2.293Zm5-1.414a1 1 0 10-1.414 1.414L16.086 12l-2.293 2.293a1 1 0 001.414 1.414l3-3a1 1 0 000-1.414l-3-3Z\" class=\"nc-icon-wrapper\" clip-rule=\"evenodd\"/>"
+};
+export default data;

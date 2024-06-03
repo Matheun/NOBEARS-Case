@@ -1,0 +1,8 @@
+const data = {
+	"left": 0,
+	"top": 0,
+	"width": 32,
+	"height": 32,
+	"body": "<mask id=\"svgID0\" width=\"24\" height=\"26\" x=\"7\" y=\"3\" maskUnits=\"userSpaceOnUse\" style=\"mask-type:alpha\"><path fill=\"#C4C4C4\" d=\"M30.048 14.4a1.82 1.82 0 010 3.2L9.756 28.766c-1.235.68-2.756-.203-2.756-1.6V4.834c0-1.397 1.52-2.28 2.756-1.6L30.048 14.4Z\"/></mask><g fill=\"none\"><g mask=\"url(#svgID0)\"><path fill=\"url(#svgID1)\" d=\"m7.635 28.546 12.657-12.728L7.843 3.298A1.807 1.807 0 007 4.835v22.332c0 .57.252 1.053.635 1.38Z\"/><path fill=\"url(#svgID2)\" d=\"M30.048 14.4a1.82 1.82 0 010 3.2l-5.119 2.817-4.637-4.6 4.4-4.364 5.356 2.947Z\"/><path fill=\"url(#svgID3)\" d=\"m24.93 20.417-4.638-4.6-12.657 12.73a1.864 1.864 0 002.121.219l15.173-8.35Z\"/><path fill=\"url(#svgID4)\" d=\"m7.843 3.299 12.45 12.519 4.4-4.365L9.756 3.234a1.859 1.859 0 00-1.913.065Z\"/></g><defs><linearGradient id=\"svgID1\" x1=\"15.677\" x2=\"7.071\" y1=\"10.874\" y2=\"19.55\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#00C3FF\"/><stop offset=\"1\" stop-color=\"#1BE2FA\"/></linearGradient><linearGradient id=\"svgID2\" x1=\"20.292\" x2=\"31.738\" y1=\"15.818\" y2=\"15.818\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#FFCE00\"/><stop offset=\"1\" stop-color=\"#FFEA00\"/></linearGradient><linearGradient id=\"svgID3\" x1=\"7.369\" x2=\"22.595\" y1=\"30.1\" y2=\"17.893\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#DE2453\"/><stop offset=\"1\" stop-color=\"#FE3944\"/></linearGradient><linearGradient id=\"svgID4\" x1=\"8.108\" x2=\"22.598\" y1=\"1.901\" y2=\"13.736\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#11D574\"/><stop offset=\"1\" stop-color=\"#01F176\"/></linearGradient></defs></g>"
+};
+export default data;

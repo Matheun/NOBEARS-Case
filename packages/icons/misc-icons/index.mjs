@@ -1,0 +1,1 @@
+export { default as uimVerified } from './verified.js';

@@ -1,0 +1,8 @@
+const data = {
+	"left": 0,
+	"top": 0,
+	"width": 32,
+	"height": 32,
+	"body": "<g fill=\"none\"><rect width=\"24\" height=\"28\" x=\"8\" y=\"2\" fill=\"url(#svgID0)\" rx=\"2\"/><path fill=\"url(#svgID1)\" d=\"M8 23h24v5a2 2 0 01-2 2H10a2 2 0 01-2-2v-5Z\"/><path fill=\"url(#svgID2)\" d=\"M8 16h24v7H8z\"/><path fill=\"url(#svgID3)\" d=\"M8 9h24v7H8z\"/><path fill=\"#000\" fill-opacity=\".3\" d=\"M8 12a3 3 0 013-3h6a3 3 0 013 3v12a3 3 0 01-3 3H8V12Z\"/><rect width=\"18\" height=\"18\" y=\"7\" fill=\"url(#svgID4)\" rx=\"2\"/><path fill=\"#fff\" d=\"M15 11.014h-1.948l-1.53 6.525L9.85 11H8.203l-1.687 6.539L5 11.014H3L5.601 21h1.726L9 14.688 10.673 21H12.4l2.6-9.986Z\"/><defs><linearGradient id=\"svgID0\" x1=\"8\" x2=\"32\" y1=\"6.667\" y2=\"6.667\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#2B78B1\"/><stop offset=\"1\" stop-color=\"#338ACD\"/></linearGradient><linearGradient id=\"svgID1\" x1=\"8\" x2=\"32\" y1=\"27.375\" y2=\"27.375\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#1B366F\"/><stop offset=\"1\" stop-color=\"#2657B0\"/></linearGradient><linearGradient id=\"svgID2\" x1=\"18.5\" x2=\"32\" y1=\"20\" y2=\"20\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#20478B\"/><stop offset=\"1\" stop-color=\"#2D6FD1\"/></linearGradient><linearGradient id=\"svgID3\" x1=\"18.5\" x2=\"32\" y1=\"13\" y2=\"13\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#215295\"/><stop offset=\"1\" stop-color=\"#2E84D3\"/></linearGradient><linearGradient id=\"svgID4\" x1=\"0\" x2=\"19\" y1=\"17\" y2=\"17\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#223E74\"/><stop offset=\"1\" stop-color=\"#215091\"/></linearGradient></defs></g>"
+};
+export default data;
