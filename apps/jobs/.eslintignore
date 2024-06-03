@@ -1,0 +1,8 @@
+# Common
+# .eslintrc.cjs
+node_modules
+dist
+.nuxt
+coverage
+COMMIT-CONVENTION.md
+tailwind.config.ts
