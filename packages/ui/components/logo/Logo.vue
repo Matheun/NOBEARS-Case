@@ -12,21 +12,21 @@ const logoSrc = computed(() => {
 
 const logoWidth = computed(() => {
     if (props.variant === "icon" && !props.width) {
-        return "32px";
+        return "34px";
     }
     return props.width;
 });
 
 const logoHeight = computed(() => {
     if (props.variant === "icon" && !props.height) {
-        return "32px";
+        return "40px";
     }
     return props.height;
 });
 
 const logoPlaceholder = computed(() => {
     if (props.variant === "icon") {
-        return [props.width && 32, props.height && 32];
+        return [props.width && 34, props.height && 40];
     }
     return props.placeholder;
 });
