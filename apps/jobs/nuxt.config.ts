@@ -7,4 +7,10 @@ export default defineNuxtConfig({
     imports: { dirs: ["./stores"] },
 
     extends: ["@nobears-case/ui"],
+
+    app: {
+        head: {
+            title: "NOBEARS-Case",
+        },
+    },
 });

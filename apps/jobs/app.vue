@@ -1,5 +1,16 @@
+<script setup lang="ts">
+const useIdFunction = () => useId();
+</script>
+
 <template>
-  <div>
-    <NuxtWelcome />
-  </div>
+    <RadixConfigProvider :use-id="useIdFunction">
+        <RadixTooltipProvider>
+            <RadixToastProvider>
+                <NuxtLayout>
+                    <NuxtPage />
+                </NuxtLayout>
+                <ui-toast-viewport />
+            </RadixToastProvider>
+        </RadixTooltipProvider>
+    </RadixConfigProvider>
 </template>
