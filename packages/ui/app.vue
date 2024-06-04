@@ -3,7 +3,7 @@ const useIdFunction = () => useId();
 </script>
 
 <template>
-    <RadixConfigProvider :use-id="useIdFunction">
+    <RadixConfigProvider :use-id="useIdFunction" class="">
         <RadixTooltipProvider>
             <RadixToastProvider>
                 <div />

@@ -25,6 +25,7 @@ export function useField () {
         id,
         value,
         validateField,
+        fieldContext,
         fieldSize: size,
         fieldDisabled: disabled,
         fieldId: `${id}-field`,

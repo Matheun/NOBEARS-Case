@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import type { CheckboxProps, CheckboxEmits } from "./types";
 import { useForwardPropsEmits } from "radix-vue";
-import { useField } from "@/components/field";
 import { cvaCheckboxVariants } from "./cva";
 import { cn } from "@/lib";
 
@@ -25,14 +24,11 @@ const iconVariant = computed(() => {
     if (props.checked === "indeterminate") { return "minus"; }
     return "check";
 });
-
-const { fieldId } = useField();
 </script>
 
 <template>
     <RadixCheckboxRoot
         v-bind="forwarded"
-        :id="fieldId"
         :class="cn(cvaCheckboxVariants({ size: props.size }), props.class)"
     >
         <RadixCheckboxIndicator class="flex size-full items-center justify-center text-current">
