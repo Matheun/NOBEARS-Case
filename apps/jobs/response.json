@@ -1,0 +1,560 @@
+{
+    "took": 3,
+    "timed_out": false,
+    "_shards": {
+      "total": 1,
+      "successful": 1,
+      "failed": 0
+    },
+    "hits": {
+      "total": 2196,
+      "max_score": 1,
+      "hits": [
+        {
+          "_index": "pro_sf_jobs_1717415403191",
+          "_type": "job",
+          "_id": "P102002",
+          "_score": 1,
+          "_timestamp": 1717415421656,
+          "_source": {
+            "published_at": "2024-04-14T22:00:00.000Z",
+            "created_at": "2024-04-10T12:51:34.000Z",
+            "updated_at": "2024-04-10T12:51:35.000Z",
+            "status": {
+              "exclusive": false,
+              "internal": false
+            },
+            "campaign": {
+              "channels": [
+                "ede",
+                "machineoperator"
+              ],
+              "exclude": false,
+              "weight": 0
+            },
+            "branch": {
+              "name": "Arnhem",
+              "location": "Arnhem",
+              "street": "Rijnkade 30",
+              "postcode": "6811HA",
+              "telephone": "0267440744",
+              "callback_id": "61682c71fafcd9002ee8e9ad",
+              "email": "arnhem@pro-industry.nl"
+            },
+            "recruiter": {
+              "name": "Joeri van Koesveld",
+              "first_name": "Joeri",
+              "last_name": "van Koesveld",
+              "telephone": "+31 (0)26 744 0744",
+              "email": "joeri.vankoesveld@pro-industry.nl",
+              "title": "Senior Accountmanager",
+              "is_active": true,
+              "about_text": null,
+              "photo": {
+                "src": "https://connexys-3858.file.force.com/profilephoto/729MI0000000axx/F",
+                "path": "/sfcontacts/da4917b6b25b18c982f8cb87e5a356c7.jpeg",
+                "format": "jpeg"
+              }
+            },
+            "vacancy": {
+              "id": "a0wMI000000kr69YAA",
+              "parent_id": "a0w3V000001EmofQAC",
+              "number": "P102002",
+              "date": "2024-04-14T22:00:00.000Z",
+              "employment_type": "full-time",
+              "career_level": "Professional",
+              "contract_type": "Tijdelijk met uitzicht op vast",
+              "shiftwork": [
+                "2 ploegendienst"
+              ],
+              "years_experience": {
+                "min": 1,
+                "max": 3
+              },
+              "salary_indication": {
+                "min": 2300,
+                "max": 2800
+              },
+              "driving_license": "n.v.t.",
+              "hours": {
+                "min": 40,
+                "max": 40
+              },
+              "languages": [
+                "Nederlands"
+              ],
+              "education_level": "mbo niveau 2",
+              "hard_criteria": [
+                {
+                  "es_structured": true,
+                  "type": "Shiftwork",
+                  "value": "2 ploegendienst",
+                  "text": "2 ploegendienst"
+                },
+                {
+                  "es_structured": true,
+                  "type": "Years of experience",
+                  "value": "1 - 3",
+                  "text": "1 - 3"
+                },
+                {
+                  "es_structured": true,
+                  "type": "Hours per week",
+                  "value": "32 - 40",
+                  "text": "32 - 40"
+                },
+                {
+                  "es_structured": true,
+                  "type": "Category",
+                  "value": "Procesoperator",
+                  "text": "Procesoperator"
+                },
+                {
+                  "es_structured": true,
+                  "type": "Sector",
+                  "value": "Keramische industrie",
+                  "text": "Keramische industrie"
+                }
+              ]
+            },
+            "igb": {
+              "name": "Proces Operator"
+            },
+            "website": {
+              "label": null,
+              "title": "Operator",
+              "subtitle": "Ben jij niet bang voor een ruwe werkomgeving en heb je al enige ervaring als operator? Bekijk dan deze vacature!",
+              "media": {
+                "images": [
+                  {
+                    "src": "https://connexys-3858.file.force.com/servlet/rtaImage?eid=a0wMI000000kr69&feoid=00N0N00000Ft8Bd&refid=0EMMI000000NRdp",
+                    "path": "/sfjobs/e783aa24ca67e23f9877f5199ad76d67.jpeg",
+                    "format": "jpeg"
+                  }
+                ],
+                "videos": []
+              },
+              "location": {
+                "text": "omgeving Ede",
+                "place": "Ede",
+                "province": "Gelderland"
+              },
+              "intro": "Wil jij jezelf blijven ontwikkelen en is stilstaan geen optie? Heb jij een opleiding op mbo niveau afgerond richting de techniek? Ga dan aan de slag in deze uitdagende functie binnen de betonindustrie! Je werkt in de 2 ploegendienst en gaat een salaris verdienen dat wel kan oplopen tot € 2.800,- bruto per maand, inclusief ploegentoeslag. Is jouw interesse gewekt? Lees dan snel verder!",
+              "description": "Als operator binnen de betonindustrie ben je werkzaam in de 2 ploegendienst. Samen met je collega's ben je verantwoordelijk van het optimaal presteren van de machines en installaties. Je werkzaamheden bestaan onder andere uit:<ul><li>Het bedienen en instellen van diverse machines.</li><li>Het bewaken en controleren van de productiekwaliteit.</li><li>Onderhouden van installaties en machines, eventueel met behulp van de technische dienst.</li><li>Oplossen van storingen.</li><li>Meedenken in het verbeteren en optimaliseren van het productieproces.</li></ul>",
+              "requirements": "Voor deze uitdagende functie voldoe jij aan de volgende eisen:<ul><li>Je bent in het bezit van een geldig VCA certificaat of bereid deze te behalen.</li><li>Je hebt een opleiding afgerond op mbo niveau richting de techniek.</li><li>Je hebt minimaal 3 jaar relevante ervaring als operator.</li><li>Een heftruckcertificaat is een pré.</li></ul>",
+              "benefits": "Als jij aan alle eisen voldoet, krijg je van ons het volgende:<ul><li>Een uitstekend salaris op basis van kennis en ervaring tussen de € 2.300,- en € 2.800,- bruto per maand, inclusief ploegentoeslag.</li><li>Werken in de 2 ploegendienst, wat extra ruimte geeft voor vrije tijd.</li><li>Een werkomgeving waarbij jij jezelf kan blijven ontwikkelen.</li><li>Uitzicht op een vast dienstverband bij goed presteren.</li></ul>Herken jij je helemaal in deze vacature? Solliciteer dan direct en dan nemen wij zo snel mogelijk contact met je op!",
+              "sector": [
+                "beton en keramisch"
+              ],
+              "category": [
+                "Machineoperator"
+              ],
+              "slug": "operator-P102002"
+            }
+          }
+        }
+      ]
+    },
+    "aggregations": {
+      "sectors": {
+        "meta": {
+          "label_singular": "Sector",
+          "field": "website.sector.as_is",
+          "pname": "s",
+          "label": "Sectoren"
+        },
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0,
+        "buckets": [
+          {
+            "key": "Voedingsmiddelen",
+            "doc_count": 646,
+            "position": 1
+          },
+          {
+            "key": "Machines en assemblage",
+            "doc_count": 304,
+            "position": 2
+          },
+          {
+            "key": "Metaal",
+            "doc_count": 284,
+            "position": 3
+          },
+          {
+            "key": "Chemie",
+            "doc_count": 272,
+            "position": 4
+          },
+          {
+            "key": "Transport en logistiek",
+            "doc_count": 182,
+            "position": 5
+          },
+          {
+            "key": "Rubber en kunststof",
+            "doc_count": 175,
+            "position": 6
+          },
+          {
+            "key": "Verpakking",
+            "doc_count": 140,
+            "position": 7
+          },
+          {
+            "key": "Farmacie",
+            "doc_count": 102,
+            "position": 8
+          },
+          {
+            "key": "Beton en keramisch",
+            "doc_count": 94,
+            "position": 9
+          },
+          {
+            "key": "Hout en isolatiemateriaal",
+            "doc_count": 80,
+            "position": 10
+          },
+          {
+            "key": "Papier en karton",
+            "doc_count": 75,
+            "position": 11
+          },
+          {
+            "key": "Diervoeding",
+            "doc_count": 73,
+            "position": 12
+          },
+          {
+            "key": "Grafisch en drukkerij",
+            "doc_count": 67,
+            "position": 13
+          },
+          {
+            "key": "Energie en afval",
+            "doc_count": 63,
+            "position": 14
+          },
+          {
+            "key": "Petrochemie",
+            "doc_count": 51,
+            "position": 15
+          },
+          {
+            "key": "Automotive",
+            "doc_count": 50,
+            "position": 16
+          },
+          {
+            "key": "Servicetechniek",
+            "doc_count": 48,
+            "position": 17
+          },
+          {
+            "key": "Textiel en kleding",
+            "doc_count": 42,
+            "position": 18
+          },
+          {
+            "key": "Verlading",
+            "doc_count": 42,
+            "position": 19
+          },
+          {
+            "key": "Technologie",
+            "doc_count": 41,
+            "position": 20
+          },
+          {
+            "key": "Verf",
+            "doc_count": 19,
+            "position": 21
+          },
+          {
+            "key": "Tabak",
+            "doc_count": 14,
+            "position": 22
+          },
+          {
+            "key": "Dranken",
+            "doc_count": 10,
+            "position": 23
+          },
+          {
+            "key": "Offshore",
+            "doc_count": 6,
+            "position": 24
+          },
+          {
+            "key": "Water",
+            "doc_count": 6,
+            "position": 25
+          },
+          {
+            "key": "Keramische industrie",
+            "doc_count": 1,
+            "position": 26
+          },
+          {
+            "key": "Metaalindustrie",
+            "doc_count": 1,
+            "position": 27
+          },
+          {
+            "key": "Voedingsmiddelenindustrie",
+            "doc_count": 1,
+            "position": 28
+          }
+        ]
+      },
+      "provinces": {
+        "meta": {
+          "label_singular": "Regio",
+          "field": "website.location.province",
+          "pname": "p",
+          "label": "Regio's"
+        },
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0,
+        "buckets": [
+          {
+            "key": "Noord-Brabant",
+            "doc_count": 394,
+            "position": 1
+          },
+          {
+            "key": "Zuid-Holland",
+            "doc_count": 348,
+            "position": 2
+          },
+          {
+            "key": "Gelderland",
+            "doc_count": 296,
+            "position": 3
+          },
+          {
+            "key": "Overijssel",
+            "doc_count": 261,
+            "position": 4
+          },
+          {
+            "key": "Noord-Holland",
+            "doc_count": 173,
+            "position": 5
+          },
+          {
+            "key": "Limburg",
+            "doc_count": 140,
+            "position": 6
+          },
+          {
+            "key": "Friesland",
+            "doc_count": 112,
+            "position": 7
+          },
+          {
+            "key": "Drenthe",
+            "doc_count": 109,
+            "position": 8
+          },
+          {
+            "key": "Groningen",
+            "doc_count": 88,
+            "position": 9
+          },
+          {
+            "key": "Utrecht",
+            "doc_count": 82,
+            "position": 10
+          },
+          {
+            "key": "Zeeland",
+            "doc_count": 80,
+            "position": 11
+          },
+          {
+            "key": "Flevoland",
+            "doc_count": 61,
+            "position": 12
+          },
+          {
+            "key": "Zuid Holland",
+            "doc_count": 11,
+            "position": 13
+          }
+        ]
+      },
+      "education_level": {
+        "meta": {
+          "label_singular": "Opleidingsniveau",
+          "field": "vacancy.education_level.as_is",
+          "pname": "el",
+          "label": "Opleidingsniveau"
+        },
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0,
+        "buckets": [
+          {
+            "key": "Mbo-niveau 2",
+            "doc_count": 858,
+            "position": 1
+          },
+          {
+            "key": "Mbo-niveau 3",
+            "doc_count": 400,
+            "position": 2
+          },
+          {
+            "key": "Vmbo",
+            "doc_count": 356,
+            "position": 3
+          },
+          {
+            "key": "Mbo-niveau 4",
+            "doc_count": 207,
+            "position": 4
+          },
+          {
+            "key": "Basisonderwijs",
+            "doc_count": 195,
+            "position": 5
+          },
+          {
+            "key": "Mbo-niveau 1",
+            "doc_count": 150,
+            "position": 6
+          },
+          {
+            "key": "Hbo",
+            "doc_count": 25,
+            "position": 7
+          },
+          {
+            "key": "Havo",
+            "doc_count": 2,
+            "position": 8
+          },
+          {
+            "key": "HAVO - VWO - MBO",
+            "doc_count": 1,
+            "position": 9
+          },
+          {
+            "key": "Wo",
+            "doc_count": 1,
+            "position": 10
+          }
+        ]
+      },
+      "categories": {
+        "meta": {
+          "label_singular": "Categorie",
+          "field": "website.category.as_is",
+          "pname": "c",
+          "label": "Categorieën"
+        },
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0,
+        "buckets": [
+          {
+            "key": "Machineoperator",
+            "doc_count": 967,
+            "position": 1
+          },
+          {
+            "key": "Productie",
+            "doc_count": 533,
+            "position": 2
+          },
+          {
+            "key": "Procesoperator",
+            "doc_count": 506,
+            "position": 3
+          },
+          {
+            "key": "Logistiek",
+            "doc_count": 300,
+            "position": 4
+          },
+          {
+            "key": "Technische dienst",
+            "doc_count": 211,
+            "position": 5
+          },
+          {
+            "key": "Technisch overig",
+            "doc_count": 185,
+            "position": 6
+          },
+          {
+            "key": "Leidinggevend",
+            "doc_count": 99,
+            "position": 7
+          },
+          {
+            "key": "Kwaliteit",
+            "doc_count": 30,
+            "position": 8
+          },
+          {
+            "key": "Engineering",
+            "doc_count": 27,
+            "position": 9
+          },
+          {
+            "key": "Laboratorium",
+            "doc_count": 15,
+            "position": 10
+          },
+          {
+            "key": "Office",
+            "doc_count": 7,
+            "position": 11
+          }
+        ]
+      },
+      "shiftwork": {
+        "meta": {
+          "label_singular": "Ploegendienst",
+          "field": "vacancy.shiftwork",
+          "pname": "sw",
+          "label": "Ploegendienst"
+        },
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0,
+        "buckets": [
+          {
+            "key": "Dagdienst",
+            "doc_count": 753,
+            "position": 1
+          },
+          {
+            "key": "2 Ploegendienst",
+            "doc_count": 588,
+            "position": 2
+          },
+          {
+            "key": "3 Ploegendienst",
+            "doc_count": 574,
+            "position": 3
+          },
+          {
+            "key": "5 Ploegendienst",
+            "doc_count": 427,
+            "position": 4
+          },
+          {
+            "key": "4 Ploegendienst",
+            "doc_count": 63,
+            "position": 5
+          },
+          {
+            "key": "Nachtdienst",
+            "doc_count": 18,
+            "position": 6
+          }
+        ]
+      }
+    }
+  }

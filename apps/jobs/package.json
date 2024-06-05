@@ -18,15 +18,19 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
     "lucide-vue-next": "^0.356.0",
+    "nuxt": "^3.11.2",
     "radix-vue": "^1.5.2",
     "tailwind-merge": "^2.2.1",
     "tailwindcss-animate": "^1.0.7",
-    "yup": "^1.4.0",
-    "nuxt": "^3.11.2",
     "vue": "^3.4.27",
-    "vue-router": "^4.3.2"
+    "vue-router": "^4.3.2",
+    "yup": "^1.4.0"
   },
   "devDependencies": {
-    "@nobears-case/ui": "workspace:*"
+    "@nobears-case/ui": "workspace:*",
+    "@vueuse/core": "^10.9.0",
+    "@vueuse/nuxt": "^10.9.0",
+    "consola": "^3.2.3",
+    "openapi-typescript": "^5.1.1"
   }
 }
