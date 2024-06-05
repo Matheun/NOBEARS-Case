@@ -70,7 +70,7 @@ const timeAgo = computed(() => {
                     :label="job._source.website.sector[0]"
                 />
             </div>
-            <ui-link append-icon="arrow-up-right" class="ml-auto" :to="`/vacature/${job._source.website.slug}`">
+            <ui-link append-icon="arrow-up-right" class="ml-auto" :to="`/vacature/${job._id}`">
                 Bekijk vacature
             </ui-link>
         </ui-card-footer>

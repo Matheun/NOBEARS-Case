@@ -131,7 +131,7 @@ const apiJobsRequestBody = computed(() => {
 
 const { data } = await useAsyncData<JobsApiReponse>(
     "jobs",
-    () => $fetch("https://data.pro-cluster.com/jobs", {
+    () => $fetch(`${runtimeConfig.public.apiURL}/jobs`, {
         method: "POST",
         body: {
             ...apiJobsRequestBody.value,
