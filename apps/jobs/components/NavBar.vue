@@ -8,11 +8,6 @@ const navLinks = ref([
         to: "/",
     },
     {
-        label: "Vacature",
-        pageName: "vacature-id",
-        to: "/vacature/P101847",
-    },
-    {
         label: "Over ons",
         pageName: "external",
         to: "https://nobearsgroup.com/nl/over-ons",
@@ -40,8 +35,6 @@ const nuxtLink = resolveComponent("NuxtLink");
                     />
                 </RadixPrimitive>
             </div>
-            <!-- {{ route.query }} -->
-            <!-- {{ route. }} -->
         </nav>
     </div>
 </template>
