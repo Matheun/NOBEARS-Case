@@ -1,5 +1,24 @@
 # 🪄 Shadcn-vue Nuxt Layer Templates
 
+## Setup
+
+Make sure to install the dependencies:
+
+```bash
+# pnpm
+pnpm install
+```
+
+
+## Development Server
+
+Start the development server on `http://localhost:3000`:
+
+```bash
+# pnpm
+pnpm dev
+```
+
 ## Usage
 
 You can use these shortcut command to init, or add components
@@ -8,7 +27,6 @@ You can use these shortcut command to init, or add components
 pnpm shadcn:init
 # equivalent to npx shadcn-vue@latest init
 ```
-
  
 ```bash
 npx shadcn:add
