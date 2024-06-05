@@ -32,11 +32,21 @@ const props = withDefaults(defineProps<IconProps>(), {
 //             return "2.5rem";
 //     }
 // });
+
+const iconName = computed(() => {
+    if (props.icon.startsWith("@")) {
+        return props.icon;
+    } else if (props.icon.includes(":")) {
+        return `@${props.provider}:${props.icon}`;
+    } else {
+        return `@${props.provider}:${props.type}:${props.icon}`;
+    }
+});
 </script>
 
 <template>
     <Icon
-        :name="`@${props.provider}:${props.type}:${props.icon}`"
+        :name="iconName"
         :class="cn(cvaIconVariants({ size: props.size }), props.class)"
     />
 </template>
