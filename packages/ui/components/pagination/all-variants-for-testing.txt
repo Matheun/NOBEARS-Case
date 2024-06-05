@@ -1,0 +1,16 @@
+<ui-pagination :total="100" :sibling-count="1" show-edges :default-page="2">
+    <ui-pagination-list v-slot="{ items }">
+        <ui-pagination-first />
+        <ui-pagination-prev />
+
+        <template v-for="(item, index) in items">
+            <ui-pagination-list-item v-if="item.type === 'page'" :key="index" :value="item.value" as-child>
+                {{ item.value }}
+            </ui-pagination-list-item>
+            <ui-pagination-ellipsis v-else :key="item.type" :index="index" />
+        </template>
+
+        <ui-pagination-next />
+        <ui-pagination-last />
+    </ui-pagination-list>
+</ui-pagination>
